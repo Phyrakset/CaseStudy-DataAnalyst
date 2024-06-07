@@ -41,7 +41,6 @@ The dataset contains the following columns:
 
 ```sh
 import pandas as pd
-
 df = pd.read_excel('Copy of casestudy_dataset_mkpbi_analyst.xlsx')
 ```
 
